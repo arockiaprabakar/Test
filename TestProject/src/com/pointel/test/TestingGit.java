@@ -15,6 +15,7 @@ public class TestingGit {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello Git welcome to java");
+		System.out.println("welcome to jenkins");
 
 	}
 
